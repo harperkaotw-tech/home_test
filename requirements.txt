@@ -19,3 +19,5 @@ flake8
 
 allure_python_commons==2.11.1
 allure-pytest
+
+selenium==4.10.0    # ← 把這行加回來
