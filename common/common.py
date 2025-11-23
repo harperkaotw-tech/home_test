@@ -9,11 +9,8 @@ from common.config import MOBILE_DEVICE_NAME
 import configparser
 import os
 import yaml
+from selenium import webdriver
 
-try:
-    from selenium import webdriver
-except ImportError:
-    webdriver = None
 
 def load_ini(path: str):
     config = configparser.ConfigParser()
