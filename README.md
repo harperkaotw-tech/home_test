@@ -72,6 +72,6 @@ allure serve ./report
 
 ## Demo
 
-![Twitch Demo](image/twitch_demo.gif)
+![Twitch Demo](images/twitch_demo.gif)
 
 
