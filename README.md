@@ -60,4 +60,8 @@ Selenium
 API
     pytest -vs testcase/test_twitch_wap.py -k test_conduits
 
-GIF
+## Demo
+
+![Twitch Demo](./assets/twitch_demo.gif)
+
+
