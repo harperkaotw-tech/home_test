@@ -1,4 +1,0 @@
-[2025-11-23 10:07:31,631][conftest.py:11][INFO]: Launching Twitch mobile browser
-[2025-11-23 10:07:32,525][conftest.py:14][INFO]: Opening Twitch: https://www.twitch.tv/
-[2025-11-23 10:08:08,684][twitch_wap_step.py:99][INFO]: click the video: https://m.twitch.tv/videos/2625047569
-[2025-11-23 10:08:13,992][conftest.py:20][INFO]: Closing browser

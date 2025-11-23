@@ -1,9 +1,0 @@
-[2025-11-23 01:08:48,764][api.py:33][INFO]: RestSelfURL: https://api.twitch.tv
-[2025-11-23 01:08:48,765][api.py:39][INFO]: ===== API REQUEST =====
-[2025-11-23 01:08:48,765][api.py:40][INFO]: Time        : 01:08:48.765485
-[2025-11-23 01:08:48,765][api.py:41][INFO]: Method      : GET
-[2025-11-23 01:08:48,765][api.py:42][INFO]: URL         : https://api.twitch.tvhelix/channels/followed
-[2025-11-23 01:08:48,765][api.py:43][INFO]: Headers     : {'Authorization': 'Bearer ybo696auq3ma3ym01dmzc0nb12ywl2', 'Client-Id': 'wyw8mywhjevtgkhqzajrkucevjws7s'}
-[2025-11-23 01:08:48,766][api.py:44][INFO]: Params      : {'user_id': '1395627766'}
-[2025-11-23 01:08:48,766][api.py:45][INFO]: Data        : None
-[2025-11-23 01:08:48,766][api.py:46][INFO]: JSON        : None
