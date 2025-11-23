@@ -1,0 +1,12 @@
+[2025-11-23 01:04:22,452][api.py:33][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 01:04:22,453][api.py:39][INFO]: ===== API REQUEST =====
+[2025-11-23 01:04:22,454][api.py:40][INFO]: Time        : 01:04:22.454006
+[2025-11-23 01:04:22,454][api.py:41][INFO]: Method      : GET
+[2025-11-23 01:04:22,454][api.py:42][INFO]: URL         : https://api.twitch.tv/helix/users/follows?from_id=1395627766
+[2025-11-23 01:04:22,454][api.py:43][INFO]: Headers     : {'Authorization': 'Bearer 818gs3hen4ajbm4lzdsxfvngiw3kcb', 'Client-Id': 'wyw8mywhjevtgkhqzajrkucevjws7s'}
+[2025-11-23 01:04:22,454][api.py:44][INFO]: Params      : None
+[2025-11-23 01:04:22,454][api.py:45][INFO]: Data        : None
+[2025-11-23 01:04:22,454][api.py:46][INFO]: JSON        : None
+[2025-11-23 01:04:22,690][api.py:105][INFO]: ===== API RESPONSE =====
+[2025-11-23 01:04:22,691][api.py:106][INFO]: Status Code : 410
+[2025-11-23 01:04:22,691][api.py:107][INFO]: Response    : {"error":"Gone","status":410,"message":"This API is not available."}

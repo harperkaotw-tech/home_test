@@ -1,0 +1,13 @@
+[2025-11-23 09:40:14,997][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:40:14,998][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:40:14,998][api.py:24][INFO]: api method==>> POST
+[2025-11-23 09:40:14,998][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer vsuoj37x1h1e9cdr846q78b80f8okh",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:40:15,173][api.py:55][INFO]: api Response Time==>> 0.17515
+[2025-11-23 09:40:15,174][api.py:63][INFO]: api response json ==>> {
+    "error": "Bad Request",
+    "status": 400,
+    "message": "Missing required parameter \"shard_count\""
+}

@@ -1,0 +1,10 @@
+
+test_twitch_wap_flow:
+  - [15, 'StarCraft II', 2]
+
+test_conduits:
+  # shard_count, update_shard_count
+  - [5, 3, 'success']
+  - [4, 1, 'success']
+  - [10000000000000000, 3, 'invaild_amount']
+  - [0, 1, 'zero_amount']

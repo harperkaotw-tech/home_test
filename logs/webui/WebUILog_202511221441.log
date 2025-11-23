@@ -1,0 +1,10 @@
+[2025-11-22 14:41:37,982][conftest.py:10][INFO]: 啟動 Twitch 手機版瀏覽器
+[2025-11-22 14:41:39,013][conftest.py:13][INFO]: 開啟 Twitch: https://www.twitch.tv/
+[2025-11-22 14:41:41,017][test_twitch_wap.py:24][INFO]: 點擊底部『瀏覽』(Browse) 按鈕
+[2025-11-22 14:41:43,331][test_twitch_wap.py:37][INFO]: 尋找搜尋輸入框
+[2025-11-22 14:41:53,596][test_twitch_wap.py:53][INFO]: 嘗試點擊搜尋按鈕（icon）
+[2025-11-22 14:41:54,134][test_twitch_wap.py:65][INFO]: 搜尋按鈕不存在，改用 ENTER
+[2025-11-22 14:41:54,182][test_twitch_wap.py:73][INFO]: 等待搜尋結果頁面載入（包含 頂端/頻道/分類/影片 tab）
+[2025-11-22 14:41:54,710][test_twitch_wap.py:81][INFO]: 切換到『影片』tab
+[2025-11-22 14:52:00,637][test_twitch_wap.py:111][INFO]: 關閉瀏覽器
+[2025-11-22 14:52:00,755][conftest.py:19][INFO]: 關閉瀏覽器

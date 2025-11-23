@@ -1,0 +1,12 @@
+[2025-11-22 19:05:14,212][conftest.py:10][INFO]: Launching Twitch mobile browser
+[2025-11-22 19:05:15,884][conftest.py:13][INFO]: Opening Twitch: https://www.twitch.tv/
+[2025-11-22 19:05:17,892][test_twitch_wap.py:20][INFO]: 點擊底部『瀏覽』(Browse) 按鈕
+[2025-11-22 19:05:20,059][test_twitch_wap.py:33][INFO]: 尋找搜尋輸入框
+[2025-11-22 19:05:30,295][test_twitch_wap.py:49][INFO]: 嘗試點擊搜尋按鈕
+[2025-11-22 19:05:30,830][test_twitch_wap.py:61][INFO]: 搜尋按鈕不存在，改用 ENTER
+[2025-11-22 19:05:30,860][test_twitch_wap.py:74][INFO]: 切換到『影片』tab
+[2025-11-22 19:05:34,582][test_twitch_wap.py:84][INFO]: 在『影片』tab 中捲動搜尋結果兩次
+[2025-11-22 19:05:42,017][test_twitch_wap.py:89][INFO]: 取得目前 viewport 中第一個完整影片元素並點擊
+[2025-11-22 19:05:42,035][test_twitch_wap.py:93][INFO]: 準備點擊的影片連結: https://m.twitch.tv/videos/2622538118
+[2025-11-22 19:05:52,152][test_twitch_wap.py:99][INFO]: 實況主影片頁面載入完成，截圖 twitch_streamer.png
+[2025-11-22 19:05:52,375][conftest.py:19][INFO]: Closing browser

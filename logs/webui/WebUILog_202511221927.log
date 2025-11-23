@@ -1,0 +1,8 @@
+[2025-11-22 19:27:05,218][conftest.py:10][INFO]: Launching Twitch mobile browser
+[2025-11-22 19:27:06,179][conftest.py:13][INFO]: Opening Twitch: https://www.twitch.tv/
+[2025-11-22 19:27:23,205][twitch_wap_step.py:106][INFO]: 準備點擊的影片連結: https://m.twitch.tv/videos/2624113421
+[2025-11-22 19:27:43,530][conftest.py:19][INFO]: Closing browser
+[2025-11-22 19:27:49,360][conftest.py:10][INFO]: Launching Twitch mobile browser
+[2025-11-22 19:27:50,438][conftest.py:13][INFO]: Opening Twitch: https://www.twitch.tv/
+[2025-11-22 19:28:07,565][twitch_wap_step.py:106][INFO]: 準備點擊的影片連結: https://m.twitch.tv/videos/2624113421
+[2025-11-22 19:28:12,870][conftest.py:19][INFO]: Closing browser

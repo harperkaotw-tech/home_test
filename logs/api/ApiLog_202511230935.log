@@ -1,0 +1,273 @@
+[2025-11-23 09:35:36,687][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:36,688][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:36,688][api.py:24][INFO]: api method==>> POST
+[2025-11-23 09:35:36,689][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:36,871][api.py:55][INFO]: api Response Time==>> 0.18242
+[2025-11-23 09:35:36,872][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "a6c5ed46-7a11-4f64-bc43-71bad2c5e947",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:36,872][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:36,873][common.py:104][INFO]: Expect shard count amount is 5, Actual is 5.
+[2025-11-23 09:35:36,874][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:36,874][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:36,874][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:35:36,874][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:37,048][api.py:55][INFO]: api Response Time==>> 0.17389
+[2025-11-23 09:35:37,049][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "a6c5ed46-7a11-4f64-bc43-71bad2c5e947",
+            "shard_count": 5
+        },
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:37,049][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:37,050][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:37,050][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:37,050][api.py:24][INFO]: api method==>> PATCH
+[2025-11-23 09:35:37,050][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:37,233][api.py:55][INFO]: api Response Time==>> 0.18232
+[2025-11-23 09:35:37,233][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "a6c5ed46-7a11-4f64-bc43-71bad2c5e947",
+            "shard_count": 3
+        }
+    ]
+}
+[2025-11-23 09:35:37,234][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:37,234][common.py:104][INFO]: Expect update shard count is 3, Actual is 3.
+[2025-11-23 09:35:37,235][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:37,235][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:37,235][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:35:37,235][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:37,405][api.py:55][INFO]: api Response Time==>> 0.16995
+[2025-11-23 09:35:37,406][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "a6c5ed46-7a11-4f64-bc43-71bad2c5e947",
+            "shard_count": 3
+        },
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:37,406][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:37,407][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:37,407][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:37,407][api.py:24][INFO]: api method==>> DELETE
+[2025-11-23 09:35:37,407][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:37,583][api.py:55][INFO]: api Response Time==>> 0.17611
+[2025-11-23 09:35:37,584][api.py:63][INFO]: api response json ==>> 
+[2025-11-23 09:35:37,584][common.py:104][INFO]: Expect response code is 204, Actual is 204.
+[2025-11-23 09:35:37,585][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:37,585][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:37,585][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:35:37,586][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:37,757][api.py:55][INFO]: api Response Time==>> 0.17211
+[2025-11-23 09:35:37,758][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:37,758][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:37,759][common.py:104][INFO]: Expect confuits amount is 3, Actual is 3.
+[2025-11-23 09:35:37,762][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:37,762][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:37,763][api.py:24][INFO]: api method==>> POST
+[2025-11-23 09:35:37,763][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:37,939][api.py:55][INFO]: api Response Time==>> 0.17696
+[2025-11-23 09:35:37,940][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "f7878675-127a-4097-8620-2e5a4e6d238f",
+            "shard_count": 4
+        }
+    ]
+}
+[2025-11-23 09:35:37,941][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:37,941][common.py:104][INFO]: Expect shard count amount is 4, Actual is 4.
+[2025-11-23 09:35:37,942][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:37,942][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:37,942][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:35:37,942][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:38,115][api.py:55][INFO]: api Response Time==>> 0.17282
+[2025-11-23 09:35:38,116][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "f7878675-127a-4097-8620-2e5a4e6d238f",
+            "shard_count": 4
+        },
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:38,116][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:38,117][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:38,117][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:38,117][api.py:24][INFO]: api method==>> PATCH
+[2025-11-23 09:35:38,117][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:38,297][api.py:55][INFO]: api Response Time==>> 0.18022
+[2025-11-23 09:35:38,298][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "f7878675-127a-4097-8620-2e5a4e6d238f",
+            "shard_count": 1
+        }
+    ]
+}
+[2025-11-23 09:35:38,298][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:38,299][common.py:104][INFO]: Expect update shard count is 1, Actual is 1.
+[2025-11-23 09:35:38,299][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:38,299][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:38,300][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:35:38,300][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:38,471][api.py:55][INFO]: api Response Time==>> 0.17189
+[2025-11-23 09:35:38,472][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "f7878675-127a-4097-8620-2e5a4e6d238f",
+            "shard_count": 1
+        },
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:38,473][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:38,474][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:38,474][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:38,474][api.py:24][INFO]: api method==>> DELETE
+[2025-11-23 09:35:38,474][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:38,651][api.py:55][INFO]: api Response Time==>> 0.17712
+[2025-11-23 09:35:38,652][api.py:63][INFO]: api response json ==>> 
+[2025-11-23 09:35:38,652][common.py:104][INFO]: Expect response code is 204, Actual is 204.
+[2025-11-23 09:35:38,653][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:38,654][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:38,654][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:35:38,654][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:38,820][api.py:55][INFO]: api Response Time==>> 0.16655
+[2025-11-23 09:35:38,821][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:35:38,821][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:35:38,822][common.py:104][INFO]: Expect confuits amount is 3, Actual is 3.
+[2025-11-23 09:35:38,825][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:35:38,825][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:35:38,826][api.py:24][INFO]: api method==>> POST
+[2025-11-23 09:35:38,826][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer g7rgb14afynwgje89s7vjjkdtf14o5",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:35:38,994][api.py:55][INFO]: api Response Time==>> 0.16804
+[2025-11-23 09:35:38,994][api.py:63][INFO]: api response json ==>> {
+    "error": "Bad Request",
+    "status": 400,
+    "message": "shard_count must be less than or equal to 20000"
+}

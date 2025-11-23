@@ -1,0 +1,24 @@
+[2025-11-23 01:14:05,829][api.py:33][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 01:14:05,830][api.py:39][INFO]: ===== API REQUEST =====
+[2025-11-23 01:14:05,830][api.py:40][INFO]: Time        : 01:14:05.830521
+[2025-11-23 01:14:05,830][api.py:41][INFO]: Method      : GET
+[2025-11-23 01:14:05,830][api.py:42][INFO]: URL         : https://api.twitch.tv/helix/channels/followed
+[2025-11-23 01:14:05,830][api.py:43][INFO]: Headers     : {'Authorization': 'Bearer 75an5mxhwyyxz2ej5ck7yjwjxnpf3p', 'Client-Id': 'wyw8mywhjevtgkhqzajrkucevjws7s'}
+[2025-11-23 01:14:05,831][api.py:44][INFO]: Params      : {'user_id': '1395627766'}
+[2025-11-23 01:14:05,831][api.py:45][INFO]: Data        : None
+[2025-11-23 01:14:05,831][api.py:46][INFO]: JSON        : None
+[2025-11-23 01:14:06,027][api.py:105][INFO]: ===== API RESPONSE =====
+[2025-11-23 01:14:06,028][api.py:106][INFO]: Status Code : 401
+[2025-11-23 01:14:06,028][api.py:107][INFO]: Response    : {"error":"Unauthorized","status":401,"message":"Missing User OAUTH Token"}
+[2025-11-23 01:14:43,467][api.py:33][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 01:14:43,467][api.py:39][INFO]: ===== API REQUEST =====
+[2025-11-23 01:14:43,467][api.py:40][INFO]: Time        : 01:14:43.467955
+[2025-11-23 01:14:43,468][api.py:41][INFO]: Method      : GET
+[2025-11-23 01:14:43,468][api.py:42][INFO]: URL         : https://api.twitch.tv/helix/channels/followed
+[2025-11-23 01:14:43,468][api.py:43][INFO]: Headers     : {'Authorization': 'Bearer 0671ckrqgdz3l4f9nyafr1x2vpeafz', 'Client-Id': 'wyw8mywhjevtgkhqzajrkucevjws7s'}
+[2025-11-23 01:14:43,468][api.py:44][INFO]: Params      : {'user_id': '1395627766'}
+[2025-11-23 01:14:43,468][api.py:45][INFO]: Data        : None
+[2025-11-23 01:14:43,468][api.py:46][INFO]: JSON        : None
+[2025-11-23 01:14:43,660][api.py:105][INFO]: ===== API RESPONSE =====
+[2025-11-23 01:14:43,660][api.py:106][INFO]: Status Code : 401
+[2025-11-23 01:14:43,661][api.py:107][INFO]: Response    : {"error":"Unauthorized","status":401,"message":"Missing User OAUTH Token"}

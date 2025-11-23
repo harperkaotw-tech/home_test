@@ -1,0 +1,286 @@
+[2025-11-23 10:01:41,621][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:41,622][api.py:24][INFO]: api method==>> POST
+[2025-11-23 10:01:41,622][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:41,857][api.py:55][INFO]: api Response Time==>> 0.23646
+[2025-11-23 10:01:41,858][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "08869b96-f743-4ee7-b608-894b1308c9c3",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:41,860][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:41,860][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:41,860][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:42,031][api.py:55][INFO]: api Response Time==>> 0.17147
+[2025-11-23 10:01:42,032][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "08869b96-f743-4ee7-b608-894b1308c9c3",
+            "shard_count": 5
+        },
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:42,034][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:42,034][api.py:24][INFO]: api method==>> PATCH
+[2025-11-23 10:01:42,034][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:42,209][api.py:55][INFO]: api Response Time==>> 0.17479
+[2025-11-23 10:01:42,210][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "08869b96-f743-4ee7-b608-894b1308c9c3",
+            "shard_count": 3
+        }
+    ]
+}
+[2025-11-23 10:01:42,211][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:42,211][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:42,211][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:42,383][api.py:55][INFO]: api Response Time==>> 0.1717
+[2025-11-23 10:01:42,384][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "08869b96-f743-4ee7-b608-894b1308c9c3",
+            "shard_count": 3
+        },
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:42,385][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:42,385][api.py:24][INFO]: api method==>> DELETE
+[2025-11-23 10:01:42,385][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:42,575][api.py:55][INFO]: api Response Time==>> 0.18985
+[2025-11-23 10:01:42,576][api.py:63][INFO]: api response json ==>> 
+[2025-11-23 10:01:42,577][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:42,577][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:42,577][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:42,748][api.py:55][INFO]: api Response Time==>> 0.17057
+[2025-11-23 10:01:42,748][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:42,753][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:42,753][api.py:24][INFO]: api method==>> POST
+[2025-11-23 10:01:42,753][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:42,928][api.py:55][INFO]: api Response Time==>> 0.17481
+[2025-11-23 10:01:42,928][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "14663487-6ff4-48a2-b944-7c4cf884255b",
+            "shard_count": 4
+        }
+    ]
+}
+[2025-11-23 10:01:42,930][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:42,930][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:42,930][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:43,100][api.py:55][INFO]: api Response Time==>> 0.16959
+[2025-11-23 10:01:43,100][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "14663487-6ff4-48a2-b944-7c4cf884255b",
+            "shard_count": 4
+        },
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:43,102][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:43,102][api.py:24][INFO]: api method==>> PATCH
+[2025-11-23 10:01:43,103][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:43,283][api.py:55][INFO]: api Response Time==>> 0.18063
+[2025-11-23 10:01:43,284][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "14663487-6ff4-48a2-b944-7c4cf884255b",
+            "shard_count": 1
+        }
+    ]
+}
+[2025-11-23 10:01:43,285][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:43,285][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:43,286][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:43,458][api.py:55][INFO]: api Response Time==>> 0.17248
+[2025-11-23 10:01:43,458][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "14663487-6ff4-48a2-b944-7c4cf884255b",
+            "shard_count": 1
+        },
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:43,460][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:43,460][api.py:24][INFO]: api method==>> DELETE
+[2025-11-23 10:01:43,460][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:43,638][api.py:55][INFO]: api Response Time==>> 0.17835
+[2025-11-23 10:01:43,639][api.py:63][INFO]: api response json ==>> 
+[2025-11-23 10:01:43,640][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:43,640][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:43,641][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:43,821][api.py:55][INFO]: api Response Time==>> 0.18089
+[2025-11-23 10:01:43,822][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:43,826][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:43,827][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:43,827][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:43,995][api.py:55][INFO]: api Response Time==>> 0.16914
+[2025-11-23 10:01:43,996][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:43,998][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:43,998][api.py:24][INFO]: api method==>> PATCH
+[2025-11-23 10:01:43,998][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:44,178][api.py:55][INFO]: api Response Time==>> 0.17988
+[2025-11-23 10:01:44,179][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 3
+        }
+    ]
+}
+[2025-11-23 10:01:44,183][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:44,183][api.py:24][INFO]: api method==>> POST
+[2025-11-23 10:01:44,183][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:44,350][api.py:55][INFO]: api Response Time==>> 0.1671
+[2025-11-23 10:01:44,350][api.py:63][INFO]: api response json ==>> {
+    "error": "Bad Request",
+    "status": 400,
+    "message": "Missing required parameter \"shard_count\""
+}
+[2025-11-23 10:01:44,352][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:44,352][api.py:24][INFO]: api method==>> GET
+[2025-11-23 10:01:44,353][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:44,520][api.py:55][INFO]: api Response Time==>> 0.16771
+[2025-11-23 10:01:44,521][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 3
+        },
+        {
+            "id": "e24906f9-abfc-457b-b562-e90624712f7c",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 10:01:44,522][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 10:01:44,522][api.py:24][INFO]: api method==>> PATCH
+[2025-11-23 10:01:44,522][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer b56799sjht42w3bi5h3ds3l0gelfpv",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 10:01:44,699][api.py:55][INFO]: api Response Time==>> 0.17677
+[2025-11-23 10:01:44,700][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "95bc8bfd-5cdc-4530-924f-52fa3c678514",
+            "shard_count": 1
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[2025-11-23 09:24:23,080][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:24:23,081][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:24:23,081][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:24:23,082][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer 5vn1q6v95ftgpva6zp6b7pjqqeedop",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:24:23,279][api.py:55][INFO]: api Response Time==>> 0.19809
+[2025-11-23 09:24:23,280][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:24:23,280][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:24:23,281][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:24:23,282][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:24:23,282][api.py:24][INFO]: api method==>> POST
+[2025-11-23 09:24:23,282][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer 5vn1q6v95ftgpva6zp6b7pjqqeedop",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:24:23,462][api.py:55][INFO]: api Response Time==>> 0.18006
+[2025-11-23 09:24:23,462][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        }
+    ]
+}
+[2025-11-23 09:24:23,463][common.py:104][INFO]: Expect response code is 200, Actual is 200.
+[2025-11-23 09:24:23,464][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:24:23,464][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:24:23,464][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:24:23,464][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer 5vn1q6v95ftgpva6zp6b7pjqqeedop",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:24:23,638][api.py:55][INFO]: api Response Time==>> 0.17382
+[2025-11-23 09:24:23,638][api.py:63][INFO]: api response json ==>> {
+    "data": [
+        {
+            "id": "215f9cba-140c-46d3-b52b-f7a988d74875",
+            "shard_count": 5
+        },
+        {
+            "id": "66e8dbc8-f059-49d0-af8e-56d5e0a2e5e9",
+            "shard_count": 5
+        },
+        {
+            "id": "2e7fe6ce-da78-4503-94e2-bf083ee9b252",
+            "shard_count": 5
+        }
+    ]
+}

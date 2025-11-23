@@ -1,0 +1,12 @@
+[2025-11-23 09:02:30,138][api.py:17][INFO]: RestSelfURL: https://api.twitch.tv
+[2025-11-23 09:02:30,139][api.py:23][INFO]: api url ==>> https://api.twitch.tv/helix/eventsub/conduits
+[2025-11-23 09:02:30,139][api.py:24][INFO]: api method==>> GET
+[2025-11-23 09:02:30,139][api.py:31][INFO]: api request header ==>> {
+    "Authorization": "Bearer f46fgni2au85o2je0su1xoneya9fe7",
+    "Client-Id": "wyw8mywhjevtgkhqzajrkucevjws7s"
+}
+[2025-11-23 09:02:30,323][api.py:55][INFO]: api Response Time==>> 0.18393
+[2025-11-23 09:02:30,324][api.py:63][INFO]: api response json ==>> {
+    "data": []
+}
+[2025-11-23 09:02:30,324][common.py:104][INFO]: Expect response code is 200, Actual is 200.

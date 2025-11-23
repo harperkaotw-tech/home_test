@@ -1,0 +1,3 @@
+[2025-11-22 19:33:12,240][conftest.py:10][INFO]: Launching Twitch mobile browser
+[2025-11-22 19:33:13,210][conftest.py:13][INFO]: Opening Twitch: https://www.twitch.tv/
+[2025-11-22 19:33:15,318][conftest.py:19][INFO]: Closing browser
