@@ -3,14 +3,17 @@ import os
 import time
 import pytest
 import allure
-from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
-
 from common.logger import api_logger
 from common.config import MOBILE_DEVICE_NAME
 import configparser
 import os
 import yaml
+
+try:
+    from selenium import webdriver
+except ImportError:
+    webdriver = None
 
 def load_ini(path: str):
     config = configparser.ConfigParser()
